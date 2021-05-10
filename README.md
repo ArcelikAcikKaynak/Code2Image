@@ -1,6 +1,6 @@
 # Code2Image: Intelligent Code Analysis by Computer Vision Techniques and Application to Vulnerability Prediction
 
-Paper: https://arxiv.org/ (will be updated)
+Paper: https://arxiv.org/abs/2105.03131
 
 ## Source Code Representation
 - **demo.py:** Demonstration of AST-based image representation of source code with a sample C file (main.c) 
